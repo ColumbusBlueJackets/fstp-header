@@ -2002,13 +2002,13 @@ input, select, textarea {
 			}
 
 		.wrapper.style1 {
-			background: #CC0033;
+			background: #FFFFFF;
 			color: #eee;
 			color: rgba(255, 255, 255, 0.75);
 		}
 
 			.wrapper.style1 .title {
-				background: #CC0033;
+				background: #FFFFFF;
 				color: #fff;
 			}
 
@@ -2017,12 +2017,12 @@ input, select, textarea {
 			}
 
 		.wrapper.style2 {
-			background: #ffffff;
+			background: #003366;
 		}
 
 			.wrapper.style2 .title {
-				background: #fff;
-				color: #484d55;
+				background: #003366;
+				color: #ffffff;
 			}
 
 		.wrapper.style3 {
