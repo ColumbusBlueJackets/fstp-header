@@ -1672,7 +1672,7 @@ input, select, textarea {
 		input[type="reset"].style1,
 		button.style1,
 		.button.style1 {
-			background: #CC0033;
+			background: #003366;
 			color: #fff;
 		}
 
@@ -2113,7 +2113,7 @@ input, select, textarea {
 		position: relative;
 		display: block;
 		top: -23.5em;
-		left: 3;
+		left: 1;
 		width: 100%;
 		text-align: left;
 	}
@@ -2272,7 +2272,7 @@ input, select, textarea {
 /* Footer */
 
 	#footer {
-		background: #003366;
+		background: #CC0033;
 		color: #eee;
 		color: rgba(255, 255, 255, 0.5);
 		padding-bottom: 6em;
