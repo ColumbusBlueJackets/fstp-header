@@ -2112,8 +2112,8 @@ input, select, textarea {
 	#nav {
 		position: relative;
 		display: block;
-		top: -23.5em;
-		left: 10;
+		top: 1.5em;
+		left: 0;
 		width: 100%;
 		text-align: center;
 	}
