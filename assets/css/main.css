@@ -2339,7 +2339,7 @@ input, select, textarea {
 			}
 
 		#footer .title {
-			background: #CC0033 url("images/overlay.png");
+			background: #CC0033 ;
 			color: #eee;
 		}
 
