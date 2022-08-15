@@ -1673,7 +1673,7 @@ input, select, textarea {
 		button.style1,
 		.button.style1 {
 			background: #CC0033;
-			color: #fff;
+			color: #ffffff;
 		}
 
 			input[type="button"].style1:hover,
@@ -1682,6 +1682,7 @@ input, select, textarea {
 			button.style1:hover,
 			.button.style1:hover {
 				background-color: #CC0033;
+				
 			}
 
 			input[type="button"].style1:active,
@@ -1723,8 +1724,8 @@ input, select, textarea {
 		input[type="reset"].style3,
 		button.style3,
 		.button.style3 {
-			background: #2f333b url("images/overlay.png");
-			color: #fff;
+			background: #CC0033;
+			color: #ffffff;
 		}
 
 			input[type="button"].style3:hover,
@@ -1732,7 +1733,7 @@ input, select, textarea {
 			input[type="reset"].style3:hover,
 			button.style3:hover,
 			.button.style3:hover {
-				background-color: #3f434b;
+				background-color: #CC0033;
 			}
 
 			input[type="button"].style3:active,
@@ -1740,7 +1741,7 @@ input, select, textarea {
 			input[type="reset"].style3:active,
 			button.style3:active,
 			.button.style3:active {
-				background-color: #1f232b;
+				background-color: #CC0033;
 			}
 
 /* List */
@@ -1799,11 +1800,7 @@ input, select, textarea {
 
 /* Actions */
 
-	ul.actions {
-		list-style: none;
-		padding-left: 0;
-		margin: 3em 0 0 0;
-	}
+
 
 		ul.actions li {
 			display: inline-block;
